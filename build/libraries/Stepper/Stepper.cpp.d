@@ -1,5 +1,5 @@
-/Users/amirhossein/Documents/Projects/ArduinoProjects/build/sketch/Hello.ino.cpp.o: \
- /Users/amirhossein/Documents/Projects/ArduinoProjects/build/sketch/Hello.ino.cpp \
+/Users/amirhossein/Documents/Projects/ArduinoProjects/build/libraries/Stepper/Stepper.cpp.o: \
+ /Applications/Arduino.app/Contents/Java/libraries/Stepper/src/Stepper.cpp \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Arduino.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/binary.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/WCharacter.h \

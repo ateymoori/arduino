@@ -11,6 +11,16 @@
   },
   {
     "Sourcefile": "/Users/amirhossein/Documents/Projects/ArduinoProjects/build/sketch/Hello.ino.cpp",
+    "Include": "Stepper.h",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/src"
+  },
+  {
+    "Sourcefile": "/Users/amirhossein/Documents/Projects/ArduinoProjects/build/sketch/Hello.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Applications/Arduino.app/Contents/Java/libraries/Stepper/src/Stepper.cpp",
     "Include": "",
     "Includepath": null
   }
