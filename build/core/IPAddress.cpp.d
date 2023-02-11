@@ -10,5 +10,5 @@
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Printable.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/USBAPI.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Arduino.h \
- /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard/pins_arduino.h \
+ /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/mega/pins_arduino.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/IPAddress.h

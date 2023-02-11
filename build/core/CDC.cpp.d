@@ -9,4 +9,4 @@
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Stream.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Print.h \
  /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Printable.h \
- /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard/pins_arduino.h
+ /Users/amirhossein/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/mega/pins_arduino.h
